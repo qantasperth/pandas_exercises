@@ -1,3 +1,5 @@
 .ipynb_checkpoints
+.venv
+00_Data
 .Rproj
 .Rproj.user
