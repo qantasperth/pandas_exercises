@@ -1,5 +1,7 @@
 .ipynb_checkpoints
 .venv
+.idea
+.DS_Store
 00_Data
 .Rproj
 .Rproj.user
